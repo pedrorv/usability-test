@@ -1,0 +1,281 @@
+* {
+  margin: 0;
+}
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+
+body {
+  margin: 0 auto;
+  display: block;
+  font-family: 'Raleway', sans-serif;
+  background-color: #fff;
+  color: white;
+}
+
+div.about-page {
+  text-align: justify;
+  text-justify: inter-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+#container {
+  position: relative;
+}
+
+div.visualization {
+  margin: 0 auto;
+  width: 90%;
+  position: relative;
+}
+
+svg {
+  display: block;
+  margin: 0 auto;
+}
+
+div.menu-container {
+  width: 100%;
+  background-color: #333;
+}
+
+nav.menu {
+  width: 90%;
+  margin: 0 auto;
+  height: 60px;
+}
+
+div.vis-selector {
+  height: 60px;
+  margin: 0;
+}
+
+div.vis-selector h1 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 200;
+  margin: 0;
+  font-size: 35px;
+  line-height: 60px;
+  display: block;
+  float: left;
+  margin-right: 50px;
+}
+
+div.vis-selector a {
+  text-decoration: none;
+  color: white;
+}
+
+div.vis-selector p {
+  display: block;
+  float: left;
+  font-size: 13px;
+  line-height: 60px;
+  color: white;
+  text-transform: uppercase;
+  padding: 0 10px;
+}
+
+div.vis-selector p.nav:hover {
+  box-shadow: 0px -5px 0px #dd1924 inset;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease 0s;
+}
+
+div.vis-selector p.selected-vis {
+  box-shadow: 0px -5px 0px #dd1924 inset;
+}
+
+div.vis-selector p:last-child {
+  float: right;
+}
+
+text, p.uf {
+  font-family: "Raleway", sans-serif;
+}
+
+text.bold, p.bold {
+  font-weight: 600;
+}
+
+text.light {
+  font-weight: 400;
+}
+
+
+line.highlight-division {
+  stroke-width: 0.5;
+  stroke: #999;
+}
+
+/*text.month, text.year, text.year-selector, p.uf, text.title, text.subtitle, text.title-description, text.graph-description */
+
+text {
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */
+  cursor: default;
+}
+
+p.nav, h1, p.uf {
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */
+}
+
+p.uf {
+  transition: box-shadow 0.3s ease 0s;
+}
+p.sudeste {
+  box-shadow: 0px -2px 0px #7DB2DD inset;
+}
+p.sudeste-hold:hover {
+  box-shadow: 0px -2px 0px #7DB2DD inset;
+}
+
+p.sul {
+  box-shadow: 0px -2px 0px #F8A40D inset;
+}
+p.sul-hold:hover {
+  box-shadow: 0px -2px 0px #F8A40D inset;
+}
+
+p.nordeste {
+  box-shadow: 0px -2px 0px #688BAD inset;
+}
+p.nordeste-hold:hover {
+  box-shadow: 0px -2px 0px #688BAD inset;
+}
+
+p.centro-oeste {
+  box-shadow: 0px -2px 0px #0079B5 inset;
+}
+p.centro-oeste-hold:hover {
+  box-shadow: 0px -2px 0px #0079B5 inset;
+}
+
+p.norte {
+  box-shadow: 0px -2px 0px #FC4F68 inset;
+}
+p.norte-hold:hover {
+  box-shadow: 0px -2px 0px #FC4F68 inset;
+}
+
+rect.pause-button, path.play-button,
+circle.movie-info:hover, circle.menu-option:hover,
+rect.region-selector:hover, circle.graph-points:hover,
+circle.value-selector:hover, circle.year-month:hover,
+circle.movies-ranking:hover, rect.month,
+rect#lightbox:hover, text#close:hover,
+text.month, text.year,
+text.year-selector, rect.country-bar,
+path.country-path, p.uf, path.dropdown,
+rect.menu-dropdown, text.menu-dropdown,
+rect.continent-selector {
+  cursor: pointer;
+}
+
+rect.month:hover, text.month:hover, rect.year:hover, text.year:hover {
+  cursor: grab;
+  cursor: -webkit-grab;
+  cursor: -moz-grab;
+}
+
+rect[grab="yes"], text[grab="yes"] {
+  cursor: grabbing !important;
+  cursor: -webkit-grabbing !important;
+  cursor: -moz-grabbing !important;
+}
+
+div.about-page {
+  width: inherit;
+}
+
+div.about-content {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+  min-height: 100px;
+  padding: 20px;
+  margin: 40px 0;
+}
+
+div.about-content:first-child {
+  border-right: 1px solid gray;
+}
+
+div.team-member {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+  margin-bottom: 45px;
+}
+
+h2.section-title {
+  font-size: 22px;
+  color: #dd1924;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+h2.second-title {
+  margin-top: 20px;
+  clear: both;
+}
+
+h3.member-name {
+  font-size: 18px;
+  text-align: center;
+  color: #000;
+  margin: 20px 0px 20px 0px;
+}
+
+p.about-text {
+  color: #000;
+  font-size: 16px;
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 80%;
+  line-height: 22px;
+  clear: both;
+}
+
+p.member-description {
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  color: #000;
+}
+
+img.photo {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  display: block;
+  border-radius: 50%;
+}
+
+
+.hidden {
+  display: none;
+}
+
+text.label {
+  font-family: sans-serif !important; 
+}

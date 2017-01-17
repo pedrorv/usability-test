@@ -1,0 +1,82 @@
+{
+  "RJ": {
+    "Estado": "Rio de Janeiro",
+    "Região": "Sudeste",
+    "Total": 555
+  },
+  "SP": {
+    "Estado": "São Paulo",
+    "Região": "Sudeste",
+    "Total": 373
+  },
+  "RS": {
+    "Estado": "Rio Grande do Sul",
+    "Região": "Sul",
+    "Total": 53
+  },
+  "MG": {
+    "Estado": "Minas Gerais",
+    "Região": "Sudeste",
+    "Total": 30
+  },
+  "PE": {
+    "Estado": "Pernambuco",
+    "Região": "Nordeste",
+    "Total": 23
+  },
+  "DF": {
+    "Estado": "Brasília",
+    "Região": "Centro-Oeste",
+    "Total": 21
+  },
+  "BA": {
+    "Estado": "Bahia",
+    "Região": "Nordeste",
+    "Total": 18
+  },
+  "CE": {
+    "Estado": "Ceará",
+    "Região": "Nordeste",
+    "Total": 17
+  },
+  "PR": {
+    "Estado": "Paraná",
+    "Região": "Sul",
+    "Total": 14
+  },
+  "SC": {
+    "Estado": "Santa Catarina",
+    "Região": "Sul",
+    "Total": 9
+  },
+  "ES": {
+    "Estado": "Espírito Santo",
+    "Região": "Sudeste",
+    "Total": 4
+  },
+  "MT": {
+    "Estado": "Mato Grosso",
+    "Região": "Centro-Oeste",
+    "Total": 2
+  },
+  "AM": {
+    "Estado": "Amazonas",
+    "Região": "Norte",
+    "Total": 1
+  },
+  "MA": {
+    "Estado": "Maranhão",
+    "Região": "Nordeste",
+    "Total": 1
+  },
+  "GO": {
+    "Estado": "Goiás",
+    "Região": "Centro-Oeste",
+    "Total": 1
+  },
+  "SE": {
+    "Estado": "Sergipe",
+    "Região": "Nordeste",
+    "Total": 1
+  }
+}

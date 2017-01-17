@@ -1,0 +1,786 @@
+{
+    "Afeganistão": {
+        "continente": "Ásia",
+        "ingles": "Afghanistan"
+    },
+    "Albânia": {
+        "continente": "Europa",
+        "ingles": "Albania"
+    },
+    "Alemanha": {
+        "continente": "Europa",
+        "ingles": "Germany"
+    },
+    "Algéria": {
+        "continente": "África",
+        "ingles": "Algeria"
+    },
+    "Andorra": {
+        "continente": "Europa",
+        "ingles": "Andorra"
+    },
+    "Angola": {
+        "continente": "África",
+        "ingles": "Angola"
+    },
+    "Antígua e Barbuda": {
+        "continente": "América do Norte",
+        "ingles": "Antigua and Barbuda"
+    },
+    "Argentina": {
+        "continente": "América do Sul",
+        "ingles": "Argentina"
+    },
+    "Arménia": {
+        "continente": "Europa",
+        "ingles": "Armenia"
+    },
+    "Arábia Saudita": {
+        "continente": "Ásia",
+        "ingles": "Saudi Arabia"
+    },
+    "Austrália": {
+        "continente": "Oceania",
+        "ingles": "Australia"
+    },
+    "Azerbaijão": {
+        "continente": "Europa",
+        "ingles": "Azerbaijan"
+    },
+    "Bahamas": {
+        "continente": "América do Norte",
+        "ingles": "Bahamas"
+    },
+    "Bahrein": {
+        "continente": "Ásia",
+        "ingles": "Bahrain"
+    },
+    "Bangladeche": {
+        "continente": "Ásia",
+        "ingles": "Bangladesh"
+    },
+    "Barbados": {
+        "continente": "América do Norte",
+        "ingles": "Barbados"
+    },
+    "Belize": {
+        "continente": "América do Norte",
+        "ingles": "Belize"
+    },
+    "Benim": {
+        "continente": "África",
+        "ingles": "Benin"
+    },
+    "Bielorrússia": {
+        "continente": "Europa",
+        "ingles": "Belarus"
+    },
+    "Bolívia": {
+        "continente": "América do Sul",
+        "ingles": "Bolivia"
+    },
+    "Botsuana": {
+        "continente": "África",
+        "ingles": "Botswana"
+    },
+    "Brasil": {
+        "continente": "América do Sul",
+        "ingles": "Brazil"
+    },
+    "Brunei": {
+        "continente": "Ásia",
+        "ingles": "Brunei"
+    },
+    "Bulgária": {
+        "continente": "Europa",
+        "ingles": "Bulgaria"
+    },
+    "Burkina Faso": {
+        "continente": "África",
+        "ingles": "Burkina Faso"
+    },
+    "Burma": {
+        "continente": "Ásia",
+        "ingles": "Burma"
+    },
+    "Burundi": {
+        "continente": "África",
+        "ingles": "Burundi"
+    },
+    "Butão": {
+        "continente": "Ásia",
+        "ingles": "Bhutan"
+    },
+    "Bélgica": {
+        "continente": "Europa",
+        "ingles": "Belgium"
+    },
+    "Bósnia e Herzegovina": {
+        "continente": "Europa",
+        "ingles": "Bosnia and Herzegovina"
+    },
+    "Cabo Verde": {
+        "continente": "África",
+        "ingles": "Cape Verde"
+    },
+    "Camarões": {
+        "continente": "África",
+        "ingles": "Cameroon"
+    },
+    "Camboja": {
+        "continente": "Ásia",
+        "ingles": "Cambodia"
+    },
+    "Canadá": {
+        "continente": "América do Norte",
+        "ingles": "Canada"
+    },
+    "Cazaquistão": {
+        "continente": "Ásia",
+        "ingles": "Kazakhstan"
+    },
+    "Chade": {
+        "continente": "África",
+        "ingles": "Chad"
+    },
+    "Chile": {
+        "continente": "América do Sul",
+        "ingles": "Chile"
+    },
+    "China": {
+        "continente": "Ásia",
+        "ingles": "China"
+    },
+    "Chipre": {
+        "continente": "Europa",
+        "ingles": "Cyprus"
+    },
+    "Colômbia": {
+        "continente": "América do Sul",
+        "ingles": "Colombia"
+    },
+    "Comores": {
+        "continente": "África",
+        "ingles": "Comoros"
+    },
+    "Coréia do Norte": {
+        "continente": "Ásia",
+        "ingles": "North Korea"
+    },
+    "Coréia do Sul": {
+        "continente": "Ásia",
+        "ingles": "South Korea"
+    },
+    "Costa Rica": {
+        "continente": "América do Norte",
+        "ingles": "Costa Rica"
+    },
+    "Costa do Marfim": {
+        "continente": "África",
+        "ingles": "Ivory Coast"
+    },
+    "Croácia": {
+        "continente": "Europa",
+        "ingles": "Croatia"
+    },
+    "Cuba": {
+        "continente": "América do Norte",
+        "ingles": "Cuba"
+    },
+    "Dinamarca": {
+        "continente": "Europa",
+        "ingles": "Denmark"
+    },
+    "Djibouti": {
+        "continente": "África",
+        "ingles": "Djibouti"
+    },
+    "Domínica": {
+        "continente": "América do Norte",
+        "ingles": "Dominica"
+    },
+    "Egito": {
+        "continente": "África",
+        "ingles": "Egypt"
+    },
+    "El Salvador": {
+        "continente": "América do Norte",
+        "ingles": "El Salvador"
+    },
+    "Emirados Arábes Unidos": {
+        "continente": "Ásia",
+        "ingles": "United Arab Emirates"
+    },
+    "Equador": {
+        "continente": "América do Sul",
+        "ingles": "Ecuador"
+    },
+    "Eritreia": {
+        "continente": "África",
+        "ingles": "Eritrea"
+    },
+    "Eslováquia": {
+        "continente": "Europa",
+        "ingles": "Slovakia"
+    },
+    "Eslovênia": {
+        "continente": "Europa",
+        "ingles": "Slovenia"
+    },
+    "Espanha": {
+        "continente": "Europa",
+        "ingles": "Spain"
+    },
+    "Estados Unidos": {
+        "continente": "América do Norte",
+        "ingles": "United States"
+    },
+    "Estónia": {
+        "continente": "Europa",
+        "ingles": "Estonia"
+    },
+    "Etiópia": {
+        "continente": "África",
+        "ingles": "Ethiopia"
+    },
+    "Fiji": {
+        "continente": "Oceania",
+        "ingles": "Fiji"
+    },
+    "Filipinas": {
+        "continente": "Ásia",
+        "ingles": "Philippines"
+    },
+    "Finlândia": {
+        "continente": "Europa",
+        "ingles": "Finland"
+    },
+    "França": {
+        "continente": "Europa",
+        "ingles": "France"
+    },
+    "Gabão": {
+        "continente": "África",
+        "ingles": "Gabon"
+    },
+    "Gana": {
+        "continente": "África",
+        "ingles": "Ghana"
+    },
+    "Geórgia": {
+        "continente": "Europa",
+        "ingles": "Georgia"
+    },
+    "Granada": {
+        "continente": "América do Norte",
+        "ingles": "Grenada"
+    },
+    "Grécia": {
+        "continente": "Europa",
+        "ingles": "Greece"
+    },
+    "Guatemala": {
+        "continente": "América do Norte",
+        "ingles": "Guatemala"
+    },
+    "Guiana": {
+        "continente": "América do Sul",
+        "ingles": "Guyana"
+    },
+    "Guiné": {
+        "continente": "África",
+        "ingles": "Guinea"
+    },
+    "Guiné Equatorial": {
+        "continente": "África",
+        "ingles": "Equatorial Guinea"
+    },
+    "Guiné-Bissau": {
+        "continente": "África",
+        "ingles": "Guinea-Bissau"
+    },
+    "Gâmbia": {
+        "continente": "África",
+        "ingles": "Gambia"
+    },
+    "Haiti": {
+        "continente": "América do Norte",
+        "ingles": "Haiti"
+    },
+    "Honduras": {
+        "continente": "América do Norte",
+        "ingles": "Honduras"
+    },
+    "Hong Kong": {
+        "continente": "Ásia",
+        "ingles": "Hong Kong"
+    },
+    "Hungria": {
+        "continente": "Europa",
+        "ingles": "Hungary"
+    },
+    "Ilhas Marshall": {
+        "continente": "Oceania",
+        "ingles": "Marshall Islands"
+    },
+    "Ilhas Salomão": {
+        "continente": "Oceania",
+        "ingles": "Solomon Islands"
+    },
+    "Índia": {
+        "continente": "Ásia",
+        "ingles": "India"
+    },
+    "Indonésia": {
+        "continente": "Ásia",
+        "ingles": "Indonesia"
+    },
+    "Inglaterra": {
+        "continente": "Europa",
+        "ingles": "England"
+    },
+    "Iraque": {
+        "continente": "Ásia",
+        "ingles": "Iraq"
+    },
+    "Irlanda": {
+        "continente": "Europa",
+        "ingles": "Ireland"
+    },
+    "Irã": {
+        "continente": "Ásia",
+        "ingles": "Iran"
+    },
+    "Islândia": {
+        "continente": "Europa",
+        "ingles": "Iceland"
+    },
+    "Israel": {
+        "continente": "Ásia",
+        "ingles": "Israel"
+    },
+    "Itália": {
+        "continente": "Europa",
+        "ingles": "Italy"
+    },
+    "Iémen": {
+        "continente": "Ásia",
+        "ingles": "Yemen"
+    },
+    "Jamaica": {
+        "continente": "América do Norte",
+        "ingles": "Jamaica"
+    },
+    "Japão": {
+        "continente": "Ásia",
+        "ingles": "Japan"
+    },
+    "Jordânia": {
+        "continente": "Ásia",
+        "ingles": "Jordan"
+    },
+    "Kiribati": {
+        "continente": "Oceania",
+        "ingles": "Kiribati"
+    },
+    "Kuwait": {
+        "continente": "Ásia",
+        "ingles": "Kuwait"
+    },
+    "Laos": {
+        "continente": "Ásia",
+        "ingles": "Laos"
+    },
+    "Lesoto": {
+        "continente": "África",
+        "ingles": "Lesotho"
+    },
+    "Letónia": {
+        "continente": "Europa",
+        "ingles": "Latvia"
+    },
+    "Libéria": {
+        "continente": "África",
+        "ingles": "Liberia"
+    },
+    "Liechtenstein": {
+        "continente": "Europa",
+        "ingles": "Liechtenstein"
+    },
+    "Lituânia": {
+        "continente": "Europa",
+        "ingles": "Lithuania"
+    },
+    "Luxemburgo": {
+        "continente": "Europa",
+        "ingles": "Luxembourg"
+    },
+    "Líbano": {
+        "continente": "Ásia",
+        "ingles": "Lebanon"
+    },
+    "Líbia": {
+        "continente": "África",
+        "ingles": "Libya"
+    },
+    "Macedónia": {
+        "continente": "Europa",
+        "ingles": "Macedonia"
+    },
+    "Madagascar": {
+        "continente": "África",
+        "ingles": "Madagascar"
+    },
+    "Malawi": {
+        "continente": "África",
+        "ingles": "Malawi"
+    },
+    "Maldivas": {
+        "continente": "Ásia",
+        "ingles": "Maldives"
+    },
+    "Mali": {
+        "continente": "África",
+        "ingles": "Mali"
+    },
+    "Malta": {
+        "continente": "Europa",
+        "ingles": "Malta"
+    },
+    "Malásia": {
+        "continente": "Ásia",
+        "ingles": "Malaysia"
+    },
+    "Marrocos": {
+        "continente": "África",
+        "ingles": "Morocco"
+    },
+    "Mauritius": {
+        "continente": "África",
+        "ingles": "Mauritius"
+    },
+    "Mauritânia": {
+        "continente": "África",
+        "ingles": "Mauritania"
+    },
+    "Micronésia": {
+        "continente": "Oceania",
+        "ingles": "Micronesia"
+    },
+    "Moldávia": {
+        "continente": "Europa",
+        "ingles": "Moldova"
+    },
+    "Mongólia": {
+        "continente": "Ásia",
+        "ingles": "Mongolia"
+    },
+    "Montenegro": {
+        "continente": "Europa",
+        "ingles": "Montenegro"
+    },
+    "Moçambique": {
+        "continente": "África",
+        "ingles": "Mozambique"
+    },
+    "México": {
+        "continente": "América do Norte",
+        "ingles": "Mexico"
+    },
+    "Mónaco": {
+        "continente": "Europa",
+        "ingles": "Monaco"
+    },
+    "Namíbia": {
+        "continente": "África",
+        "ingles": "Namibia"
+    },
+    "Nauru": {
+        "continente": "Oceania",
+        "ingles": "Nauru"
+    },
+    "Nepal": {
+        "continente": "Ásia",
+        "ingles": "Nepal"
+    },
+    "Nicarágua": {
+        "continente": "América do Norte",
+        "ingles": "Nicaragua"
+    },
+    "Nigéria": {
+        "continente": "África",
+        "ingles": "Nigeria"
+    },
+    "Noruega": {
+        "continente": "Europa",
+        "ingles": "Norway"
+    },
+    "Nova Zelândia": {
+        "continente": "Oceania",
+        "ingles": "New Zealand"
+    },
+    "Níger": {
+        "continente": "África",
+        "ingles": "Niger"
+    },
+    "Omã": {
+        "continente": "Ásia",
+        "ingles": "Oman"
+    },
+    "Palau": {
+        "continente": "Oceania",
+        "ingles": "Palau"
+    },
+    "Panamá": {
+        "continente": "América do Norte",
+        "ingles": "Panama"
+    },
+    "Papua-Nova Guiné": {
+        "continente": "Oceania",
+        "ingles": "Papua New Guinea"
+    },
+    "Paquistão": {
+        "continente": "Ásia",
+        "ingles": "Pakistan"
+    },
+    "Paraguai": {
+        "continente": "América do Sul",
+        "ingles": "Paraguay"
+    },
+    "Holanda": {
+        "continente": "Europa",
+        "ingles": "Netherlands"
+    },
+    "Peru": {
+        "continente": "América do Sul",
+        "ingles": "Peru"
+    },
+    "Polônia": {
+        "continente": "Europa",
+        "ingles": "Poland"
+    },
+    "Portugal": {
+        "continente": "Europa",
+        "ingles": "Portugal"
+    },
+    "Qatar": {
+        "continente": "Ásia",
+        "ingles": "Qatar"
+    },
+    "Quirguistão": {
+        "continente": "Ásia",
+        "ingles": "Kyrgyzstan"
+    },
+    "Quénia": {
+        "continente": "África",
+        "ingles": "Kenya"
+    },
+    "Reino Unido": {
+        "continente": "Europa",
+        "ingles": "United Kingdom"
+    },
+    "República Centro-Africana": {
+        "continente": "África",
+        "ingles": "Central African Republic"
+    },
+    "República Democrática do Congo": {
+        "continente": "África",
+        "ingles": "Democratic Republic of the Congo"
+    },
+    "República Dominicana": {
+        "continente": "América do Norte",
+        "ingles": "Dominican Republic"
+    },
+    "República Tcheca": {
+        "continente": "Europa",
+        "ingles": "Czech Republic"
+    },
+    "Romênia": {
+        "continente": "Europa",
+        "ingles": "Romania"
+    },
+    "Ruanda": {
+        "continente": "África",
+        "ingles": "Rwanda"
+    },
+    "Rússia": {
+        "continente": "Europa",
+        "ingles": "Russia"
+    },
+    "Samoa": {
+        "continente": "Oceania",
+        "ingles": "Samoa"
+    },
+    "Santa Lúcia": {
+        "continente": "América do Norte",
+        "ingles": "Saint Lucia"
+    },
+    "Seicheles": {
+        "continente": "África",
+        "ingles": "Seychelles"
+    },
+    "Senegal": {
+        "continente": "África",
+        "ingles": "Senegal"
+    },
+    "Serra Leoa": {
+        "continente": "África",
+        "ingles": "Sierra Leone"
+    },
+    "Singapura": {
+        "continente": "Ásia",
+        "ingles": "Singapore"
+    },
+    "Somália": {
+        "continente": "África",
+        "ingles": "Somalia"
+    },
+    "Sri Lanka": {
+        "continente": "Ásia",
+        "ingles": "Sri Lanka"
+    },
+    "Suazilândia": {
+        "continente": "África",
+        "ingles": "Swaziland"
+    },
+    "Sudão": {
+        "continente": "África",
+        "ingles": "Sudan"
+    },
+    "Sudão do Sul": {
+        "continente": "África",
+        "ingles": "South Sudan"
+    },
+    "Suriname": {
+        "continente": "América do Sul",
+        "ingles": "Suriname"
+    },
+    "Suécia": {
+        "continente": "Europa",
+        "ingles": "Sweden"
+    },
+    "Suíça": {
+        "continente": "Europa",
+        "ingles": "Switzerland"
+    },
+    "São Cristóvão e Neves": {
+        "continente": "América do Norte",
+        "ingles": "Saint Kitts and Nevis"
+    },
+    "São Marino": {
+        "continente": "Europa",
+        "ingles": "San Marino"
+    },
+    "São Tomé e Príncipe": {
+        "continente": "África",
+        "ingles": "Sao Tome and Principe"
+    },
+    "São Vicente e Granadinas": {
+        "continente": "América do Norte",
+        "ingles": "Saint Vincent and the Grenadines"
+    },
+    "Sérvia": {
+        "continente": "Europa",
+        "ingles": "Serbia"
+    },
+    "Síria": {
+        "continente": "Ásia",
+        "ingles": "Syria"
+    },
+    "Tailândia": {
+        "continente": "Ásia",
+        "ingles": "Thailand"
+    },
+    "Taiwan": {
+        "continente": "Ásia",
+        "ingles": "Taiwan"
+    },
+    "Tajaquistão": {
+        "continente": "Ásia",
+        "ingles": "Tajikistan"
+    },
+    "Tanzânia": {
+        "continente": "África",
+        "ingles": "Tanzania"
+    },
+    "Timor Leste": {
+        "continente": "Ásia",
+        "ingles": "East Timor"
+    },
+    "Togo": {
+        "continente": "África",
+        "ingles": "Togo"
+    },
+    "Tonga": {
+        "continente": "Oceania",
+        "ingles": "Tonga"
+    },
+    "Trinidad e Tobago": {
+        "continente": "América do Norte",
+        "ingles": "Trinidad and Tobago"
+    },
+    "Tunísia": {
+        "continente": "África",
+        "ingles": "Tunisia"
+    },
+    "Turcomenistão": {
+        "continente": "Ásia",
+        "ingles": "Turkmenistan"
+    },
+    "Turquia": {
+        "continente": "Europa",
+        "ingles": "Turkey"
+    },
+    "Tuvalu": {
+        "continente": "Oceania",
+        "ingles": "Tuvalu"
+    },
+    "Ucrânia": {
+        "continente": "Europa",
+        "ingles": "Ukraine"
+    },
+    "Uganda": {
+        "continente": "África",
+        "ingles": "Uganda"
+    },
+    "Uruguai": {
+        "continente": "América do Sul",
+        "ingles": "Uruguay"
+    },
+    "Uzbequistão": {
+        "continente": "Ásia",
+        "ingles": "Uzbekistan"
+    },
+    "Vanuatu": {
+        "continente": "Oceania",
+        "ingles": "Vanuatu"
+    },
+    "Vaticano": {
+        "continente": "Europa",
+        "ingles": "Vatican City"
+    },
+    "Venezuela": {
+        "continente": "América do Sul",
+        "ingles": "Venezuela"
+    },
+    "Vietname": {
+        "continente": "Ásia",
+        "ingles": "Vietnam"
+    },
+    "Zimbabwe": {
+        "continente": "África",
+        "ingles": "Zimbabwe"
+    },
+    "Zâmbia": {
+        "continente": "África",
+        "ingles": "Zambia"
+    },
+    "África do Sul": {
+        "continente": "África",
+        "ingles": "South Africa"
+    },
+    "Áustria": {
+        "continente": "Europa",
+        "ingles": "Austria"
+    }
+}

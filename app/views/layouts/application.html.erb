@@ -1,14 +1,134 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>UsabilityTest</title>
+    <title>Cenário - Visualizando o Cinema no Brasil</title>
     <%= csrf_meta_tags %>
 
-    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
-    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_link_tag    'application', media: 'all' %>
+    <%= javascript_include_tag 'application' %>
+    <link href='https://fonts.googleapis.com/css?family=Dosis:400' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
   </head>
+  <body lang="pt-BR" ng-app="cenarioTest">
 
-  <body>
-    <%= yield %>
+    <div class="menu-container">
+      <nav class="menu">
+        <div class="vis-selector">
+          <a href="http://pedrorv.github.io/cenario"><h1>CEN&Aacute;RIO</h1></a>
+          <p class="nav vis-selection overview selected-vis">P&uacute;blico e N&uacute;mero de T&iacute;tulos</p>
+          <p class="nav vis-selection nationalities">Nacionalidades</p>
+          <p class="nav vis-selection recordists">Nacionais Recordistas de P&uacute;blico</p>
+          <p class="nav vis-selection production">Produ&ccedil;&atilde;o Nacional</p>
+          <p class="nav vis-selection about" href="#">Sobre | Quem</p>
+        </div>
+      </nav>
+    </div>
+
+    <div class="visualization" id="container">
+
+    <script type="text/javascript">
+
+      // Create a svg and resize according to user screen
+      var svg = d3.select("div.visualization")
+          .append("svg")
+          .attr("class", "vis")
+          .attr("width", visConfig.width)
+          .attr("height", visConfig.height);
+
+      var userWindowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+      scaleSvg(scaleRatio(userWindowWidth, visConfig.width, visConfig.baseWidth));
+
+      // Create first vis acoording to user screen
+      createVisOverview(userWindowWidth);
+
+      // Adjust vis on screen resize
+      d3.select(window).on("resize", function() {
+        var userWindowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth,
+            ratio = scaleRatio(userWindowWidth, visConfig.width, visConfig.baseWidth);
+
+
+
+        var wordcloud = d3.select("div#word-cloud");
+
+        if (!wordcloud.empty()) {
+          wordcloud.style({
+              position: "absolute",
+              top: ((visConfig.proMenuTextOptionsH/visConfig.height) * 100) + "%",
+              left: ((visConfig.proMenuTextOptionsW/visConfig.width) * 100) + "%",
+              width: ((visConfig.proMenuTextOptionsWTotal/visConfig.width) * 100) + "%",
+              height: ((visConfig.proMenuTextOptionsHTotal/visConfig.height) * 100) + "%"
+            });
+
+          wordcloud.selectAll("p")
+            .style({
+              "font-size": function() {
+                var value = parseFloat(d3.select(this).attr("base-size"));
+                return (value * ratio) + "px";
+              },
+              color: "#000",
+              display: "inline-block",
+              margin: "0 5px 5px 0"
+            });
+        }
+
+        scaleSvg(ratio);
+        scaleVis(ratio);
+
+        d3.select("div.visualization").style({
+          width: (visConfig.width * ratio) + "px"
+        });
+      });
+
+      function visualSelection(reference) {
+        d3.selectAll(".vis-selection").classed("selected-vis", false);
+        d3.select(reference).classed("selected-vis", true);
+      }
+
+      var visSelectors = d3.selectAll(".vis-selection").on("click", function() {
+        visualSelection(this);
+      });
+
+      function changeVis (reference, newVis) {
+        userWindowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+        d3.selectAll("div#word-cloud").remove();
+        d3.select("div.about-page").remove();
+        d3.select("svg").classed("hidden", false);
+        clearInterval(visConfig.animationTimer);
+        visualSelection(reference);
+        newVis(userWindowWidth);
+        resizeFun = newVis;
+      }
+
+      var visOverview = d3.select("p.overview").on("click", function() {
+        changeVis(this, createVisOverview);
+      });
+
+      var visNationalities = d3.select("p.nationalities").on("click", function() {
+        changeVis(this, createVisNationalities);
+      });
+
+      var visRecordists = d3.select("p.recordists").on("click", function() {
+        changeVis(this, createVisRecordists);
+      });
+
+      var visProduction = d3.select("p.production").on("click", function() {
+        changeVis(this, createVisProduction);
+      });
+
+      var visAbout = d3.select("p.about").on("click", function() {
+        changeVis(this, createAboutPage);
+      });
+
+
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-87914413-1', 'auto');
+      ga('send', 'pageview');
+    </script>
   </body>
 </html>

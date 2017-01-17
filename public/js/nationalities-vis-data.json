@@ -1,0 +1,2016 @@
+{
+  "2009": {
+    "América do Norte": {
+      "Estados Unidos": {
+        "Títulos": 146,
+        "Público": 95251307,
+        "Renda": 847883142,
+        "Gêneros": {
+          "Ficção": 125,
+          "Documentário": 9,
+          "Animação": 12
+        },
+        "Média": 652406.2123287672
+      },
+      "Canadá": {
+        "Títulos": 3,
+        "Público": 114684,
+        "Renda": 1744718,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 2,
+          "Animação": 0
+        },
+        "Média": 38228
+      },
+      "México": {
+        "Títulos": 1,
+        "Público": 2026,
+        "Renda": 16673,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 2026
+      }
+    },
+    "América do Sul": {
+      "Brasil": {
+        "Títulos": 84,
+        "Público": 16961010,
+        "Renda": 138116743,
+        "Gêneros": {
+          "Ficção": 44,
+          "Documentário": 39,
+          "Animação": 1
+        },
+        "Média": 201916.7857142857
+      },
+      "Argentina": {
+        "Títulos": 6,
+        "Público": 80067,
+        "Renda": 710868,
+        "Gêneros": {
+          "Ficção": 6,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 13344.5
+      },
+      "Peru": {
+        "Títulos": 1,
+        "Público": 73442,
+        "Renda": 522706,
+        "Gêneros": {
+          "Ficção": 0,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 73442
+      },
+      "Uruguai": {
+        "Títulos": 1,
+        "Público": 16028,
+        "Renda": 142927,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 16028
+      },
+      "Chile": {
+        "Títulos": 1,
+        "Público": 280,
+        "Renda": 2020,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 280
+      }
+    },
+    "Europa": {
+      "Espanha": {
+        "Títulos": 5,
+        "Público": 342390,
+        "Renda": 3204949,
+        "Gêneros": {
+          "Ficção": 3,
+          "Documentário": 0,
+          "Animação": 2
+        },
+        "Média": 68478
+      },
+      "França": {
+        "Títulos": 26,
+        "Público": 759874,
+        "Renda": 6941458,
+        "Gêneros": {
+          "Ficção": 23,
+          "Documentário": 3,
+          "Animação": 0
+        },
+        "Média": 29225.923076923078
+      },
+      "Portugal": {
+        "Títulos": 3,
+        "Público": 26429,
+        "Renda": 239648,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 8809.666666666666
+      },
+      "Reino Unido": {
+        "Títulos": 11,
+        "Público": 2392011,
+        "Renda": 20851736,
+        "Gêneros": {
+          "Ficção": 8,
+          "Documentário": 2,
+          "Animação": 1
+        },
+        "Média": 217455.54545454544
+      },
+      "Itália": {
+        "Títulos": 3,
+        "Público": 53001,
+        "Renda": 464722,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 17667
+      },
+      "Dinamarca": {
+        "Títulos": 2,
+        "Público": 158776,
+        "Renda": 1281744,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 79388
+      },
+      "Alemanha": {
+        "Títulos": 5,
+        "Público": 293005,
+        "Renda": 2519119,
+        "Gêneros": {
+          "Ficção": 4,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 58601
+      },
+      "Turquia": {
+        "Títulos": 1,
+        "Público": 13278,
+        "Renda": 128994,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 13278
+      },
+      "Noruega": {
+        "Títulos": 1,
+        "Público": 2632,
+        "Renda": 21091,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 2632
+      },
+      "Áustria": {
+        "Títulos": 1,
+        "Público": 3561,
+        "Renda": 31117,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 3561
+      },
+      "Romênia": {
+        "Títulos": 2,
+        "Público": 19854,
+        "Renda": 174589,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 9927
+      },
+      "Suécia": {
+        "Títulos": 3,
+        "Público": 48834,
+        "Renda": 452256,
+        "Gêneros": {
+          "Ficção": 3,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 16278
+      },
+      "Rússia": {
+        "Títulos": 2,
+        "Público": 36220,
+        "Renda": 302618,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 18110
+      },
+      "Polônia": {
+        "Títulos": 1,
+        "Público": 12145,
+        "Renda": 111169,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 12145
+      },
+      "Suíça": {
+        "Títulos": 1,
+        "Público": 5699,
+        "Renda": 45307,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 5699
+      }
+    },
+    "Ásia": {
+      "Coréia do Sul": {
+        "Títulos": 1,
+        "Público": 2885,
+        "Renda": 27724,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 2885
+      },
+      "Líbano": {
+        "Títulos": 1,
+        "Público": 54359,
+        "Renda": 510326,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 54359
+      },
+      "Japão": {
+        "Títulos": 2,
+        "Público": 90057,
+        "Renda": 823432,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 45028.5
+      },
+      "Israel": {
+        "Títulos": 2,
+        "Público": 23325,
+        "Renda": 221490,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 11662.5
+      },
+      "Índia": {
+        "Títulos": 1,
+        "Público": 77565,
+        "Renda": 456123,
+        "Gêneros": {
+          "Ficção": 0,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 77565
+      },
+      "China": {
+        "Títulos": 1,
+        "Público": 60850,
+        "Renda": 575234,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 60850
+      },
+      "Hong Kong": {
+        "Títulos": 1,
+        "Público": 5738,
+        "Renda": 55542,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 5738
+      }
+    }
+  },
+  "2010": {
+    "Ásia": {
+      "Japão": {
+        "Títulos": 2,
+        "Público": 74406,
+        "Renda": 558431,
+        "Gêneros": {
+          "Ficção": 0,
+          "Documentário": 0,
+          "Animação": 2
+        },
+        "Média": 37203
+      },
+      "Israel": {
+        "Títulos": 1,
+        "Público": 24525,
+        "Renda": 243953,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 24525
+      },
+      "Irã": {
+        "Títulos": 2,
+        "Público": 20312,
+        "Renda": 179662,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 10156
+      },
+      "Coréia do Sul": {
+        "Títulos": 2,
+        "Público": 15936,
+        "Renda": 142175,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 7968
+      }
+    },
+    "América do Norte": {
+      "Estados Unidos": {
+        "Títulos": 150,
+        "Público": 100050636,
+        "Renda": 935262867,
+        "Gêneros": {
+          "Ficção": 134,
+          "Documentário": 5,
+          "Animação": 11
+        },
+        "Média": 667004.24
+      },
+      "México": {
+        "Títulos": 1,
+        "Público": 4603,
+        "Renda": 35369,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 4603
+      },
+      "Canadá": {
+        "Títulos": 1,
+        "Público": 15018,
+        "Renda": 136802,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 15018
+      }
+    },
+    "América do Sul": {
+      "Brasil": {
+        "Títulos": 75,
+        "Público": 27970664,
+        "Renda": 249064658,
+        "Gêneros": {
+          "Ficção": 44,
+          "Documentário": 31,
+          "Animação": 0
+        },
+        "Média": 372942.18666666665
+      },
+      "Colômbia": {
+        "Títulos": 1,
+        "Público": 530,
+        "Renda": 5045,
+        "Gêneros": {
+          "Ficção": 0,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 530
+      },
+      "Argentina": {
+        "Títulos": 2,
+        "Público": 76372,
+        "Renda": 742635,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 38186
+      }
+    },
+    "Europa": {
+      "Alemanha": {
+        "Títulos": 8,
+        "Público": 217294,
+        "Renda": 1996395,
+        "Gêneros": {
+          "Ficção": 7,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 27161.75
+      },
+      "França": {
+        "Títulos": 30,
+        "Público": 1180346,
+        "Renda": 10878382,
+        "Gêneros": {
+          "Ficção": 25,
+          "Documentário": 5,
+          "Animação": 0
+        },
+        "Média": 39344.86666666667
+      },
+      "Reino Unido": {
+        "Títulos": 11,
+        "Público": 718535,
+        "Renda": 7291071,
+        "Gêneros": {
+          "Ficção": 10,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 65321.36363636364
+      },
+      "Portugal": {
+        "Títulos": 1,
+        "Público": 11502,
+        "Renda": 95203,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 11502
+      },
+      "Itália": {
+        "Títulos": 5,
+        "Público": 106510,
+        "Renda": 1009704,
+        "Gêneros": {
+          "Ficção": 4,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 21302
+      },
+      "Bélgica": {
+        "Títulos": 1,
+        "Público": 8206,
+        "Renda": 76025,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 8206
+      },
+      "Finlândia": {
+        "Títulos": 3,
+        "Público": 13930,
+        "Renda": 127168,
+        "Gêneros": {
+          "Ficção": 3,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 4643.333333333333
+      },
+      "Espanha": {
+        "Títulos": 4,
+        "Público": 422587,
+        "Renda": 4109439,
+        "Gêneros": {
+          "Ficção": 4,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 105646.75
+      },
+      "Bulgária": {
+        "Títulos": 1,
+        "Público": 4068,
+        "Renda": 122212,
+        "Gêneros": {
+          "Ficção": 0,
+          "Documentário": 0,
+          "Animação": 0,
+          "videomusical": null
+        },
+        "Média": 4068
+      },
+      "Suécia": {
+        "Títulos": 1,
+        "Público": 12305,
+        "Renda": 110200,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 12305
+      },
+      "Romênia": {
+        "Títulos": 1,
+        "Público": 5296,
+        "Renda": 56564,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 5296
+      }
+    },
+    "África": {
+      "Chade": {
+        "Títulos": 1,
+        "Público": 6352,
+        "Renda": 51671,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 6352
+      }
+    },
+    "Oceania": {
+      "Austrália": {
+        "Títulos": 1,
+        "Público": 32313,
+        "Renda": 291792,
+        "Gêneros": {
+          "Ficção": 0,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 32313
+      }
+    }
+  },
+  "2011": {
+    "América do Norte": {
+      "Estados Unidos": {
+        "Títulos": 144,
+        "Público": 119636407,
+        "Renda": 1229554831,
+        "Gêneros": {
+          "Ficção": 121,
+          "Documentário": 10,
+          "Animação": 12,
+          "animação": null
+        },
+        "Média": 830808.3819444445
+      },
+      "Canadá": {
+        "Títulos": 5,
+        "Público": 123672,
+        "Renda": 1344372,
+        "Gêneros": {
+          "Ficção": 5,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 24734.4
+      },
+      "México": {
+        "Títulos": 1,
+        "Público": 17679,
+        "Renda": 194132,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 17679
+      }
+    },
+    "Europa": {
+      "Espanha": {
+        "Títulos": 5,
+        "Público": 601528,
+        "Renda": 6731706,
+        "Gêneros": {
+          "Ficção": 5,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 120305.6
+      },
+      "Sérvia": {
+        "Títulos": 2,
+        "Público": 1321,
+        "Renda": 10497,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 660.5
+      },
+      "França": {
+        "Títulos": 30,
+        "Público": 862958,
+        "Renda": 8864878,
+        "Gêneros": {
+          "Ficção": 26,
+          "Documentário": 2,
+          "Animação": 2
+        },
+        "Média": 28765.266666666666
+      },
+      "Dinamarca": {
+        "Títulos": 4,
+        "Público": 199362,
+        "Renda": 2063579,
+        "Gêneros": {
+          "Ficção": 4,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 49840.5
+      },
+      "Itália": {
+        "Títulos": 6,
+        "Público": 116860,
+        "Renda": 1186545,
+        "Gêneros": {
+          "Ficção": 6,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 19476.666666666668
+      },
+      "Noruega": {
+        "Títulos": 1,
+        "Público": 1617,
+        "Renda": 16994,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 1617
+      },
+      "Portugal": {
+        "Títulos": 1,
+        "Público": 17189,
+        "Renda": 175825,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 17189
+      },
+      "Suíça": {
+        "Títulos": 1,
+        "Público": 4262,
+        "Renda": 32745,
+        "Gêneros": {
+          "Ficção": 0,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 4262
+      },
+      "Alemanha": {
+        "Títulos": 6,
+        "Público": 361209,
+        "Renda": 4203492,
+        "Gêneros": {
+          "Ficção": 5,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 60201.5
+      },
+      "Bélgica": {
+        "Títulos": 2,
+        "Público": 242833,
+        "Renda": 2545430,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 121416.5
+      },
+      "Reino Unido": {
+        "Títulos": 5,
+        "Público": 2330748,
+        "Renda": 26076011,
+        "Gêneros": {
+          "Ficção": 4,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 466149.6
+      },
+      "Holanda": {
+        "Títulos": 1,
+        "Público": 13228,
+        "Renda": 135363,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 13228
+      },
+      "Inglaterra": {
+        "Títulos": 2,
+        "Público": 47432,
+        "Renda": 509896,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 23716
+      }
+    },
+    "América do Sul": {
+      "Brasil": {
+        "Títulos": 99,
+        "Público": 14071495,
+        "Renda": 130797716,
+        "Gêneros": {
+          "Ficção": 56,
+          "Documentário": 41,
+          "Animação": 1,
+          "Videomusical": null
+        },
+        "Média": 142136.31313131313
+      },
+      "Argentina": {
+        "Títulos": 7,
+        "Público": 617249,
+        "Renda": 6891363,
+        "Gêneros": {
+          "Ficção": 6,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 88178.42857142857
+      },
+      "Peru": {
+        "Títulos": 2,
+        "Público": 24879,
+        "Renda": 253742,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 12439.5
+      },
+      "Chile": {
+        "Títulos": 1,
+        "Público": 1172,
+        "Renda": 12560,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 1172
+      },
+      "Uruguai": {
+        "Títulos": 3,
+        "Público": 30541,
+        "Renda": 304224,
+        "Gêneros": {
+          "Ficção": 3,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 10180.333333333334
+      }
+    },
+    "Ásia": {
+      "Israel": {
+        "Títulos": 1,
+        "Público": 9932,
+        "Renda": 99087,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 9932
+      },
+      "China": {
+        "Títulos": 1,
+        "Público": 32956,
+        "Renda": 340263,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 32956
+      },
+      "Coréia do Sul": {
+        "Títulos": 1,
+        "Público": 19408,
+        "Renda": 196782,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 19408
+      },
+      "Irã": {
+        "Títulos": 1,
+        "Público": 1234,
+        "Renda": 11647,
+        "Gêneros": {
+          "Ficção": 0,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 1234
+      },
+      "Japão": {
+        "Títulos": 1,
+        "Público": 164411,
+        "Renda": 1510476,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 164411
+      }
+    },
+    "Oceania": {
+      "Austrália": {
+        "Títulos": 1,
+        "Público": 63033,
+        "Renda": 581579,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 63033
+      }
+    }
+  },
+  "2012": {
+    "Europa": {
+      "Espanha": {
+        "Títulos": 5,
+        "Público": 1144996,
+        "Renda": 13875322,
+        "Gêneros": {
+          "Ficção": 5,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 228999.2
+      },
+      "França": {
+        "Títulos": 39,
+        "Público": 2254486,
+        "Renda": 27407655,
+        "Gêneros": {
+          "Ficção": 38,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 57807.333333333336
+      },
+      "Itália": {
+        "Títulos": 6,
+        "Público": 253422,
+        "Renda": 2786258,
+        "Gêneros": {
+          "Ficção": 6,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 42237
+      },
+      "Reino Unido": {
+        "Títulos": 11,
+        "Público": 1424252,
+        "Renda": 17883189,
+        "Gêneros": {
+          "Ficção": 11,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 129477.45454545454
+      },
+      "Grécia": {
+        "Títulos": 1,
+        "Público": 1408,
+        "Renda": 12877,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 1408
+      },
+      "Eslovênia": {
+        "Títulos": 1,
+        "Público": 2698,
+        "Renda": 28377,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 2698
+      },
+      "Noruega": {
+        "Títulos": 2,
+        "Público": 15346,
+        "Renda": 168060,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 7673
+      },
+      "Bélgica": {
+        "Títulos": 2,
+        "Público": 33626,
+        "Renda": 339033,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 16813
+      },
+      "Rússia": {
+        "Títulos": 1,
+        "Público": 34841,
+        "Renda": 394697,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 34841
+      },
+      "Croácia": {
+        "Títulos": 1,
+        "Público": 0,
+        "Renda": 0,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 0
+      },
+      "Alemanha": {
+        "Títulos": 4,
+        "Público": 126569,
+        "Renda": 1867928,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 2,
+          "Animação": 0
+        },
+        "Média": 31642.25
+      },
+      "Inglaterra": {
+        "Títulos": 2,
+        "Público": 73227,
+        "Renda": 740517,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 36613.5
+      },
+      "Portugal": {
+        "Títulos": 1,
+        "Público": 700,
+        "Renda": 4138,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 700
+      },
+      "Suécia": {
+        "Títulos": 1,
+        "Público": 3563,
+        "Renda": 31545,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 3563
+      },
+      "Turquia": {
+        "Títulos": 1,
+        "Público": 118,
+        "Renda": 1006,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 118
+      },
+      "Holanda": {
+        "Títulos": 1,
+        "Público": 0,
+        "Renda": 0,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 0
+      },
+      "Finlândia": {
+        "Títulos": 1,
+        "Público": 29809,
+        "Renda": 318115,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 29809
+      },
+      "Polônia": {
+        "Títulos": 1,
+        "Público": 2027,
+        "Renda": 15070,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 2027
+      }
+    },
+    "América do Norte": {
+      "Estados Unidos": {
+        "Títulos": 133,
+        "Público": 120394893,
+        "Renda": 1328732555,
+        "Gêneros": {
+          "Ficção": 114,
+          "Documentário": 5,
+          "Animação": 14
+        },
+        "Média": 905224.7593984962
+      },
+      "Canadá": {
+        "Títulos": 5,
+        "Público": 263398,
+        "Renda": 3046318,
+        "Gêneros": {
+          "Ficção": 5,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 52679.6
+      }
+    },
+    "América do Sul": {
+      "Brasil": {
+        "Títulos": 83,
+        "Público": 15602599,
+        "Renda": 157744800,
+        "Gêneros": {
+          "Ficção": 46,
+          "Documentário": 35,
+          "Animação": 2
+        },
+        "Média": 187983.1204819277
+      },
+      "Argentina": {
+        "Títulos": 7,
+        "Público": 82095,
+        "Renda": 963553,
+        "Gêneros": {
+          "Ficção": 7,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 11727.857142857143
+      },
+      "Uruguai": {
+        "Títulos": 1,
+        "Público": 4223,
+        "Renda": 38372,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 4223
+      },
+      "Chile": {
+        "Títulos": 2,
+        "Público": 17858,
+        "Renda": 201293,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 8929
+      }
+    },
+    "Ásia": {
+      "China": {
+        "Títulos": 3,
+        "Público": 62270,
+        "Renda": 740184,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 20756.666666666668
+      },
+      "Israel": {
+        "Títulos": 2,
+        "Público": 5954,
+        "Renda": 66229,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 2977
+      },
+      "Irã": {
+        "Títulos": 2,
+        "Público": 174108,
+        "Renda": 1931391,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 87054
+      },
+      "Japão": {
+        "Títulos": 2,
+        "Público": 20176,
+        "Renda": 216138,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 10088
+      },
+      "Coréia do Sul": {
+        "Títulos": 1,
+        "Público": 4739,
+        "Renda": 53066,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 4739
+      },
+      "Índia": {
+        "Títulos": 1,
+        "Público": 1355,
+        "Renda": 12518,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 1355
+      }
+    },
+    "Oceania": {
+      "Austrália": {
+        "Títulos": 1,
+        "Público": 6431,
+        "Renda": 59750,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 6431
+      }
+    },
+    "África": {
+      "Egito": {
+        "Títulos": 1,
+        "Público": 11436,
+        "Renda": 123327,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 11436
+      }
+    }
+  },
+  "2013": {
+    "América do Norte": {
+      "Estados Unidos": {
+        "Títulos": 146,
+        "Público": 114168182,
+        "Renda": 1365041239,
+        "Gêneros": {
+          "Ficção": 133,
+          "Documentário": 2,
+          "Animação": 9,
+          "Outros": null
+        },
+        "Média": 781973.8493150685
+      },
+      "Cuba": {
+        "Títulos": 2,
+        "Público": 3223,
+        "Renda": 40484,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 1611.5
+      },
+      "Canadá": {
+        "Títulos": 3,
+        "Público": 112023,
+        "Renda": 1392671,
+        "Gêneros": {
+          "Ficção": 3,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 37341
+      },
+      "México": {
+        "Títulos": 2,
+        "Público": 10161,
+        "Renda": 113355,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 5080.5
+      }
+    },
+    "América do Sul": {
+      "Brasil": {
+        "Títulos": 129,
+        "Público": 23623537,
+        "Renda": 253974115,
+        "Gêneros": {
+          "Ficção": 77,
+          "Documentário": 50,
+          "Animação": 2
+        },
+        "Média": 183128.19379844962
+      },
+      "Chile": {
+        "Títulos": 1,
+        "Público": 6297,
+        "Renda": 82444,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 6297
+      },
+      "Argentina": {
+        "Títulos": 8,
+        "Público": 487510,
+        "Renda": 5703573,
+        "Gêneros": {
+          "Ficção": 7,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 60938.75
+      },
+      "Venezuela": {
+        "Títulos": 1,
+        "Público": 12,
+        "Renda": 66,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 12
+      },
+      "Uruguai": {
+        "Títulos": 1,
+        "Público": 2358,
+        "Renda": 23065,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 2358
+      }
+    },
+    "Europa": {
+      "França": {
+        "Títulos": 49,
+        "Público": 1106408,
+        "Renda": 13293962,
+        "Gêneros": {
+          "Ficção": 45,
+          "Documentário": 1,
+          "Animação": 3
+        },
+        "Média": 22579.755102040817
+      },
+      "Reino Unido": {
+        "Títulos": 9,
+        "Público": 402656,
+        "Renda": 5202172,
+        "Gêneros": {
+          "Ficção": 8,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 44739.555555555555
+      },
+      "Romênia": {
+        "Títulos": 1,
+        "Público": 13320,
+        "Renda": 148751,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 13320
+      },
+      "Espanha": {
+        "Títulos": 7,
+        "Público": 1428317,
+        "Renda": 16922537,
+        "Gêneros": {
+          "Ficção": 5,
+          "Documentário": 1,
+          "Animação": 1
+        },
+        "Média": 204045.2857142857
+      },
+      "Hungria": {
+        "Títulos": 3,
+        "Público": 20692,
+        "Renda": 224571,
+        "Gêneros": {
+          "Ficção": 3,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 6897.333333333333
+      },
+      "Rússia": {
+        "Títulos": 2,
+        "Público": 143539,
+        "Renda": 2066090,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 71769.5
+      },
+      "Alemanha": {
+        "Títulos": 8,
+        "Público": 244790,
+        "Renda": 2968464,
+        "Gêneros": {
+          "Ficção": 7,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 30598.75
+      },
+      "Itália": {
+        "Títulos": 9,
+        "Público": 82418,
+        "Renda": 1030262,
+        "Gêneros": {
+          "Ficção": 9,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 9157.555555555555
+      },
+      "Dinamarca": {
+        "Títulos": 3,
+        "Público": 221612,
+        "Renda": 2752892,
+        "Gêneros": {
+          "Ficção": 3,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 73870.66666666667
+      },
+      "Noruega": {
+        "Títulos": 1,
+        "Público": 10653,
+        "Renda": 135659,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 10653
+      },
+      "Inglaterra": {
+        "Títulos": 1,
+        "Público": 21870,
+        "Renda": 313141,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 21870
+      },
+      "Turquia": {
+        "Títulos": 1,
+        "Público": 2746,
+        "Renda": 13961,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 2746
+      }
+    },
+    "Ásia": {
+      "China": {
+        "Títulos": 2,
+        "Público": 7790,
+        "Renda": 86537,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 3895
+      },
+      "Coréia do Sul": {
+        "Títulos": 3,
+        "Público": 30471,
+        "Renda": 367845,
+        "Gêneros": {
+          "Ficção": 3,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 10157
+      },
+      "Japão": {
+        "Títulos": 3,
+        "Público": 384880,
+        "Renda": 3641140,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 128293.33333333333
+      },
+      "Israel": {
+        "Títulos": 1,
+        "Público": 14833,
+        "Renda": 178927,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 14833
+      },
+      "Arábia Saudita": {
+        "Títulos": 1,
+        "Público": 14931,
+        "Renda": 180310,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 14931
+      }
+    }
+  },
+  "2014": {
+    "América do Sul": {
+      "Brasil": {
+        "Títulos": 114,
+        "Público": 15977920,
+        "Renda": 187147040,
+        "Gêneros": {
+          "Ficção": 74,
+          "Documentário": 36,
+          "Animação": 4
+        },
+        "Média": 140157.19298245615
+      },
+      "Argentina": {
+        "Títulos": 9,
+        "Público": 494486,
+        "Renda": 7096309,
+        "Gêneros": {
+          "Ficção": 7,
+          "Documentário": 1,
+          "Animação": 1
+        },
+        "Média": 54942.88888888889
+      },
+      "Venezuela": {
+        "Títulos": 2,
+        "Público": 14722,
+        "Renda": 185643,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 7361
+      },
+      "Colômbia": {
+        "Títulos": 2,
+        "Público": 4455,
+        "Renda": 55203,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 2227.5
+      },
+      "Chile": {
+        "Títulos": 2,
+        "Público": 29721,
+        "Renda": 339796,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 14860.5
+      },
+      "Paraguai": {
+        "Títulos": 1,
+        "Público": 11071,
+        "Renda": 129537,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 11071
+      }
+    },
+    "Europa": {
+      "França": {
+        "Títulos": 37,
+        "Público": 2929698,
+        "Renda": 35644687,
+        "Gêneros": {
+          "Ficção": 37,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 79181.02702702703
+      },
+      "Alemanha": {
+        "Títulos": 6,
+        "Público": 2109659,
+        "Renda": 29292892,
+        "Gêneros": {
+          "Ficção": 4,
+          "Documentário": 0,
+          "Animação": 2
+        },
+        "Média": 351609.8333333333
+      },
+      "Grécia": {
+        "Títulos": 2,
+        "Público": 15784,
+        "Renda": 170305,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 7892
+      },
+      "Bélgica": {
+        "Títulos": 4,
+        "Público": 83159,
+        "Renda": 1139868,
+        "Gêneros": {
+          "Ficção": 4,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 20789.75
+      },
+      "Bósnia e Herzegovina": {
+        "Títulos": 1,
+        "Público": 851,
+        "Renda": 10582,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 851
+      },
+      "Reino Unido": {
+        "Títulos": 9,
+        "Público": 714957,
+        "Renda": 8600202,
+        "Gêneros": {
+          "Ficção": 9,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 79439.66666666667
+      },
+      "Espanha": {
+        "Títulos": 3,
+        "Público": 169608,
+        "Renda": 2347233,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 56536
+      },
+      "Suécia": {
+        "Títulos": 1,
+        "Público": 3963,
+        "Renda": 52234,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 3963
+      },
+      "Itália": {
+        "Títulos": 4,
+        "Público": 82673,
+        "Renda": 1159435,
+        "Gêneros": {
+          "Ficção": 4,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 20668.25
+      },
+      "Noruega": {
+        "Títulos": 2,
+        "Público": 48684,
+        "Renda": 609210,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 24342
+      },
+      "Portugal": {
+        "Títulos": 3,
+        "Público": 12554,
+        "Renda": 133775,
+        "Gêneros": {
+          "Ficção": 3,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 4184.666666666667
+      },
+      "Holanda": {
+        "Títulos": 2,
+        "Público": 3654,
+        "Renda": 47884,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 1827
+      },
+      "Polônia": {
+        "Títulos": 3,
+        "Público": 13324,
+        "Renda": 177177,
+        "Gêneros": {
+          "Ficção": 3,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 4441.333333333333
+      },
+      "Croácia": {
+        "Títulos": 1,
+        "Público": 30595,
+        "Renda": 395216,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 30595
+      },
+      "Romênia": {
+        "Títulos": 1,
+        "Público": 9344,
+        "Renda": 119552,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 9344
+      },
+      "Inglaterra": {
+        "Títulos": 1,
+        "Público": 4079,
+        "Renda": 58790,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 4079
+      },
+      "Dinamarca": {
+        "Títulos": 1,
+        "Público": 100039,
+        "Renda": 1294477,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 100039
+      },
+      "Irlanda": {
+        "Títulos": 1,
+        "Público": 668,
+        "Renda": 9644,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 668
+      }
+    },
+    "América do Norte": {
+      "Estados Unidos": {
+        "Títulos": 145,
+        "Público": 126627042,
+        "Renda": 1608650105,
+        "Gêneros": {
+          "Ficção": 133,
+          "Documentário": 2,
+          "Animação": 10
+        },
+        "Média": 873289.9448275862
+      },
+      "Canadá": {
+        "Títulos": 8,
+        "Público": 421431,
+        "Renda": 5269380,
+        "Gêneros": {
+          "Ficção": 7,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 52678.875
+      },
+      "México": {
+        "Títulos": 6,
+        "Público": 41317,
+        "Renda": 535244,
+        "Gêneros": {
+          "Ficção": 6,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 6886.166666666667
+      }
+    },
+    "Ásia": {
+      "Irã": {
+        "Títulos": 1,
+        "Público": 2745,
+        "Renda": 31659,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 2745
+      },
+      "Japão": {
+        "Títulos": 4,
+        "Público": 544714,
+        "Renda": 6080640,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 2
+        },
+        "Média": 136178.5
+      },
+      "Tailândia": {
+        "Títulos": 1,
+        "Público": 867,
+        "Renda": 8224,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 867
+      },
+      "Camboja": {
+        "Títulos": 1,
+        "Público": 2702,
+        "Renda": 30783,
+        "Gêneros": {
+          "Ficção": 0,
+          "Documentário": 1,
+          "Animação": 0
+        },
+        "Média": 2702
+      },
+      "Israel": {
+        "Títulos": 2,
+        "Público": 8369,
+        "Renda": 111122,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 4184.5
+      },
+      "Jordânia": {
+        "Títulos": 1,
+        "Público": 6405,
+        "Renda": 81988,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 6405
+      },
+      "China": {
+        "Títulos": 1,
+        "Público": 8845,
+        "Renda": 129237,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 8845
+      },
+      "Índia": {
+        "Títulos": 1,
+        "Público": 20729,
+        "Renda": 274759,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 20729
+      },
+      "Taiwan": {
+        "Títulos": 1,
+        "Público": 1139,
+        "Renda": 9910,
+        "Gêneros": {
+          "Ficção": 1,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 1139
+      }
+    },
+    "África": {
+      "África do Sul": {
+        "Títulos": 1,
+        "Público": 235546,
+        "Renda": 2916096,
+        "Gêneros": {
+          "Ficção": 0,
+          "Documentário": 0,
+          "Animação": 1
+        },
+        "Média": 235546
+      }
+    },
+    "Oceania": {
+      "Austrália": {
+        "Títulos": 2,
+        "Público": 24418,
+        "Renda": 376611,
+        "Gêneros": {
+          "Ficção": 2,
+          "Documentário": 0,
+          "Animação": 0
+        },
+        "Média": 12209
+      }
+    }
+  }
+}
