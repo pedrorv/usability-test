@@ -423,7 +423,7 @@ function createVisNationalities(userWindowWidth) {
       var totalAxisWidth = visConfig.natGraphXAxisW;
 
       var accumulator = visConfig.baseWMargin;
-      var calculatePositions = finalData.map((el, country) => {
+      var calculatePositions = finalData.map(function(el, country) {
         var x = accumulator;
         var width = (el["Dados"]["Títulos"] * totalWidthAvailable)/titlesSum;
 
