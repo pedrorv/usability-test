@@ -13,8 +13,6 @@
                 var userWindowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
                 scaleSvg(scaleRatio(userWindowWidth, visConfig.width, visConfig.baseWidth));
 
-                // Create first vis acoording to user screen
-                createVisOverview(userWindowWidth);
 
                 // Adjust vis on screen resize
                 d3.select(window).on("resize", function() {
