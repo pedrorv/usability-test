@@ -1,24 +1,9 @@
-# README
+# Cenário
+Visualização de dados interativa sobre a dinâmica do cinema no Brasil.  
+Por Pedro Reis e Victória Molgado
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Interactive data visualization about the cinema dynamics in Brazil.  
+By Pedro Reis and Victória Molgado
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+http://pedrorv.github.io/cenario/  
+https://labvis-ufrj.github.io/cenario/

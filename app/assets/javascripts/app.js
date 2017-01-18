@@ -1,7 +1,7 @@
 (function() {
-    // https://github.com/melloc01/angular-input-stars input stars
 
-    angular.module('cenarioTest', ['ui.router'])
+    angular
+        .module('cenarioTest', ['ui.router'])
         .config(['$stateProvider', '$urlRouterProvider',
             function($stateProvider, $urlRouterProvider) {
                 $stateProvider.state('visao-geral', {
@@ -17,7 +17,7 @@
                     }
                 })
                 .state('recordistas', {
-                    url: '/restaurant/:id/comments',
+                    url: '/recordistas',
                     data: {
                         'createVis': 'visFunction'
                     }
@@ -37,4 +37,5 @@
 
                 $urlRouterProvider.otherwise('visao-geral');
             }]);
+
 }());
