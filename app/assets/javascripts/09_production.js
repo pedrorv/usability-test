@@ -491,7 +491,6 @@ function createVisProduction(userWindowWidth) {
             .transition("grow")
             .duration(100)
             .attr("r", function () {
-              console.log(self.attr('id'));
               return (self.attr("id").length === 2) ? visConfig.proMenuCirclesRadiusState +
                                                       visConfig.proMenuCirclesGrowFactor
                                                     : visConfig.proMenuCirclesRadiusRegion +
