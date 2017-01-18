@@ -15,8 +15,6 @@ function createVisOverview(userWindowWidth) {
 
   function createVis() {
 
-    deleteVis();
-
     var dragX = d3.behavior.drag()
         .on("drag", function() {
             var dx = d3.event.x,

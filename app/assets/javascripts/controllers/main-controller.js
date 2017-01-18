@@ -67,6 +67,7 @@
                     userWindowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
                     d3.selectAll("div#word-cloud").remove();
                     d3.select("div.about-page").remove();
+                    deleteVis();
                     d3.select("svg").classed("hidden", false);
                     clearInterval(visConfig.animationTimer);
                     visualSelection(reference);

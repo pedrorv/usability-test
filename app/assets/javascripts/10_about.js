@@ -1,7 +1,5 @@
 function createAboutPage(userWindowWidth) {
 
-    deleteVis();
-
     d3.select("svg").classed("hidden", true);
 
     var aboutdiv = d3.select("div.visualization")

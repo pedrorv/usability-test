@@ -12,8 +12,6 @@ function createVisRecordists(userWindowWidth) {
 
   function createVis() {
 
-    deleteVis();
-
     visConfig.recModeSelected = "titles";
     visConfig.recMaxYAxisValue = undefined;
 
