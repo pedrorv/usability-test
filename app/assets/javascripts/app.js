@@ -5,34 +5,19 @@
         .config(['$stateProvider', '$urlRouterProvider',
             function($stateProvider, $urlRouterProvider) {
                 $stateProvider.state('visao-geral', {
-                    url: '/visao-geral',
-                    data: {
-                        'createVis': 'visFunction'
-                    }
+                    url: '/visao-geral'
                 })
                 .state('nacionalidades', {
-                    url: '/nacionalidades',
-                    data: {
-                        'createVis': 'visFunction'
-                    }
+                    url: '/nacionalidades'
                 })
                 .state('recordistas', {
-                    url: '/recordistas',
-                    data: {
-                        'createVis': 'visFunction'
-                    }
+                    url: '/recordistas'
                 })
                 .state('producao-nacional', {
-                    url: '/producao-nacional',
-                    data: {
-                        'createVis': 'visFunction'
-                    }
+                    url: '/producao-nacional'
                 })
                 .state('sobre', {
-                    url: '/sobre',
-                    data: {
-                        'createVis': 'visFunction'
-                    }
+                    url: '/sobre'
                 });
 
                 $urlRouterProvider.otherwise('visao-geral');
